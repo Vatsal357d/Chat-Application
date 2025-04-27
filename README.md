@@ -1,3 +1,5 @@
+This project was for university which was made by us in the 4th semester.
+
 Simple Java Chat Application (Server and Client)
 This project is a basic chat application written in Java using Sockets and Swing GUI. It includes a server and a client that can send messages to each other in real time over a local network (localhost).
 Features
